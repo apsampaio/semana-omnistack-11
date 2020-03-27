@@ -35,6 +35,10 @@ export default function Logon() {
         <form onSubmit={handleLogin}>
           <h1>Faça seu logon</h1>
           <input
+            type="text"
+            pattern="[0-9a-fA-F]{8}$"
+            maxLength="8"
+            required
             placeholder="Sua ID"
             value={id}
             onChange={e => setId(e.target.value)}
