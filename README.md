@@ -61,6 +61,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ```sh
 git clone https://github.com/apsampaio/semana-omnistack-11.git
 cd semana-omnistack-11
+npm install
 ```
 #### Iniciando Backend
 ```sh
