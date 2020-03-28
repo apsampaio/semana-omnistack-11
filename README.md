@@ -22,7 +22,11 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<<<<<<< HEAD
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+=======
+  <a href="#-projeto">Projeto</a>
+>>>>>>> 6c1709cb24a18ba1cc075a2d6fe898b4c3dfea80
 </p>
 
 <br>
@@ -46,9 +50,14 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="Frontend" src="frontend/src/assets/heroes.png" width="100%">
 </p>
 
 ---
 
 Feito com ♥ by Andre Sampaio :wave:
+=======
+  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="50%" height="50%">
+</p>
+>>>>>>> 6c1709cb24a18ba1cc075a2d6fe898b4c3dfea80
