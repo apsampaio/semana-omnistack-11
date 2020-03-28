@@ -46,7 +46,7 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 
 <p align="center">
-  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="100%">
+  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
 </p>
 
 ---
