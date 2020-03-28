@@ -47,5 +47,20 @@
   margin-top: 8px;
 }
 
-.new-incident-container .content form textarea {
+@media screen and (max-width: 700px) {
+  .new-incident-container .content {
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+  }
 }
+@media screen and (max-height: 700px) {
+  .new-incident-container .content img {
+    padding-top: 150px;
+  }
+  .new-incident-container .content section h1 {
+    margin: 10px 0 32px;
+    font-size: 32px;
+  }
+} 
+

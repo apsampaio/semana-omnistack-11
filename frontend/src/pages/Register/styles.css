@@ -53,3 +53,34 @@
 .register-container .content form .input-group input + input {
   margin-left: 8px;
 }
+
+@media screen and (max-width: 700px) {
+
+  .register-container .content {
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+    padding: 15px;
+  }
+  .register-container .content section {
+    height: fit-content; 
+  }
+
+  .register-container .content section h1 {
+    margin-top: 5px;
+  }
+
+  .register-container .content form {
+    width: 100%;
+  }
+}
+
+@media screen and (max-height: 600px) {
+
+  .register-container .content section img {
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+  }
+
+}

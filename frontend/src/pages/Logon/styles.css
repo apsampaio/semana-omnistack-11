@@ -23,3 +23,30 @@
   font-size: 32px;
   margin-bottom: 32px;
 }
+
+@media screen and (max-width: 700px) {
+  .logon-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .logon-container section.form {
+    max-width: 100vw;
+    margin: 0;
+  }
+
+  .logon-container section.form form {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .logon-container section.form form input,
+  .logon-container section.form form button
+   {
+    width: 90%;
+  }
+  .heroes {
+    width: 50vw;
+    height: 40vh;
+  }
+}
